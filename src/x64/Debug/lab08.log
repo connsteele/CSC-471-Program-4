@@ -1,0 +1,45 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (lab08.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+d:\csc471\_csc471\programs\program-4\src\main.cpp(34): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\csc471\_csc471\programs\program-4\src\main.cpp(52): warning C4305: 'initializing': truncation from 'double' to 'const float'
+d:\csc471\_csc471\programs\program-4\src\main.cpp(183): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\csc471\_csc471\programs\program-4\src\main.cpp(184): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\csc471\_csc471\programs\program-4\src\main.cpp(197): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\csc471\_csc471\programs\program-4\src\main.cpp(198): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\csc471\_csc471\programs\program-4\src\main.cpp(211): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\csc471\_csc471\programs\program-4\src\main.cpp(212): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\csc471\_csc471\programs\program-4\src\main.cpp(213): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\csc471\_csc471\programs\program-4\src\main.cpp(217): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\csc471\_csc471\programs\program-4\src\main.cpp(218): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\csc471\_csc471\programs\program-4\src\main.cpp(219): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\csc471\_csc471\programs\program-4\src\main.cpp(223): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\csc471\_csc471\programs\program-4\src\main.cpp(224): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\csc471\_csc471\programs\program-4\src\main.cpp(225): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\csc471\_csc471\programs\program-4\src\main.cpp(226): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\csc471\_csc471\programs\program-4\src\main.cpp(229): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\csc471\_csc471\programs\program-4\src\main.cpp(230): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\csc471\_csc471\programs\program-4\src\main.cpp(231): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\csc471\_csc471\programs\program-4\src\main.cpp(547): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\csc471\_csc471\programs\program-4\src\main.cpp(673): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\csc471\_csc471\programs\program-4\src\main.cpp(691): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\csc471\_csc471\programs\program-4\src\main.cpp(785): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\csc471\_csc471\programs\program-4\src\main.cpp(786): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\csc471\_csc471\programs\program-4\src\main.cpp(787): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\csc471\_csc471\programs\program-4\src\main.cpp(788): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\csc471\_csc471\programs\program-4\src\main.cpp(789): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\csc471\_csc471\programs\program-4\src\main.cpp(790): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\csc471\_csc471\programs\program-4\src\main.cpp(810): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\csc471\_csc471\programs\program-4\src\main.cpp(811): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\csc471\_csc471\programs\program-4\src\main.cpp(812): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\csc471\_csc471\programs\program-4\src\main.cpp(813): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\csc471\_csc471\programs\program-4\src\main.cpp(814): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\csc471\_csc471\programs\program-4\src\main.cpp(815): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\csc471\_csc471\programs\program-4\src\main.cpp(895): warning C4305: '+=': truncation from 'double' to 'float'
+d:\csc471\_csc471\programs\program-4\src\main.cpp(907): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Texture.cpp
+  Program.cpp
+  MatrixStack.cpp
+  GLTextureWriter.cpp
+  lab08.vcxproj -> D:\CSC471\_CSC471\Programs\program-4\x64\Debug\Program_4.exe
